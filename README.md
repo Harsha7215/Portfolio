@@ -24,6 +24,8 @@ If your branch is main:
 
 bash
 git push -u origin main
+
+
 4. Rename Branch (Optional)
 If you want to standardize on main:
 
