@@ -4,6 +4,8 @@ If you just initialized Git but didn’t commit anything:
 bash
 git add .
 git commit -m "Initial commit"
+
+
 2. Check Your Current Branch
 Run:
 
